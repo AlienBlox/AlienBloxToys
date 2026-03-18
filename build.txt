@@ -1,0 +1,3 @@
+displayName = AlienBlox&#39;s Toys 4 Terraria
+author = alienblox1234
+version = 0.1
